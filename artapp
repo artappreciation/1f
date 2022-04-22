@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Login form with css and anime background</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="container">
+		
+		<form>
+		
+		<label for="name">Username:</label>
+		
+		<input type="name">
+		
+		<label for="username">Password:</label>
+		
+		<p><a href="#">Forgot your password?</a>
+		
+		<input type="password">
+		
+		<div id="lower">
+		
+		<input type="checkbox"><label class="check" for="checkbox">Keep me logged in</label>
+		
+		<input type="submit" value="Login">
+		
+		</div>
+		
+		</form>
+		
+	</div>
+<!-- partial -->
+  
+</body>
+</html>
